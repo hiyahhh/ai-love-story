@@ -4,9 +4,11 @@ A repeatable GenAI production process for personalized wedding short films.
 
 Start with a true story, lock the couple's likeness and visual world, then generate and edit short scenes. This repository is a production kit; it does not yet call generation APIs or render films.
 
-## Reusable skill
+## Reusable skills
 
 Use `$ai-love-story` in Codex with this repository open. The [portable skill](.agents/skills/ai-love-story/SKILL.md) covers fictional promotional samples, reference assets, scene prompts, take review and editing. See [installation and examples](skills/README.md) for reuse in other projects or assistants.
+
+Use `$cinematic-prompt-director` for model-agnostic shot direction, prompt writing and failed-shot repair. Its [portable package](.agents/skills/cinematic-prompt-director/SKILL.md) separates cinematic intent from provider settings and reference syntax.
 
 Our current focus is fictional promotional samples. We can design sample characters and stories without waiting for a real couple's biography. The first output is a reviewed creative package, followed by references and a short motion test.
 

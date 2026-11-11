@@ -45,6 +45,8 @@ Deliverable: a timed shot list and a brief explanation of the emotional progress
 
 ## 4. Write executable scene prompts
 
+When both skills are installed, use Cinematic Prompt Director (`$cinematic-prompt-director`) for shot feasibility, physical blocking, optics, creative devices, model translation and repair. Keep this skill responsible for the film process. The companion is optional; standalone installations can use the templates below.
+
 Use the video template in [prompts.md](templates/prompts.md). Include reference definitions, a shared technical block, timed action, acting task, continuity and sound. Refer only to assets available or explicitly marked as prerequisites. Match asset IDs to the actual provider elements before submitting; plain names and copied tutorial UUIDs do not bind references.
 
 Reuse the technical block across related scenes. Translate each scene into the chosen model's supported duration, reference count, aspect ratio and sound controls. Check current capabilities rather than relying on the tutorial's model names. Keep output shot timing distinct from generation length: the editor can trim a longer take. Split a sequence when too much action is packed into one generation.
