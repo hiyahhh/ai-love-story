@@ -17,6 +17,8 @@ For a real couple, use supplied facts; flag gaps that affect the story. Ask only
 
 Read [direction and continuity](references/direction.md) before writing final shot prompts. Read [source notes](references/source-notes.md) when explaining the tutorial's method or selecting a model. Read [production and review](references/production.md) before planning paid generations or evaluating takes. Load only the references needed for the current stage.
 
+For upstream concept selection, film-reference research or multi-era treatments, optionally use `$director-topic-selection` when installed. Reuse its accepted choices and evidence records; proposed concepts remain proposals.
+
 ## 1. Write the creative brief
 
 Use [the brief template](templates/brief.md). For a promotional sample, fill it with fictional characters, one recognizable emotional hook, one obstacle or hesitation, a choice, and a payoff. Mark all invented story details as fiction. Prefer one or two locations and a distinctive recurring prop for the first sample. A historical or multi-era montage is an optional creative choice, not a requirement.

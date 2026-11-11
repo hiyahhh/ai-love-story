@@ -6,6 +6,8 @@ Start with a true story, lock the couple's likeness and visual world, then gener
 
 ## Reusable skills
 
+Use `$director-topic-selection`（导演选题）for story concepts, film-scene research, verified clip/timecode references and multi-era treatments. Its [portable package](.agents/skills/director-topic-selection/SKILL.md) hands accepted direction to the production and shot-prompt skills.
+
 Use `$ai-love-story` in Codex with this repository open. The [portable skill](.agents/skills/ai-love-story/SKILL.md) covers fictional promotional samples, reference assets, scene prompts, take review and editing. See [installation and examples](skills/README.md) for reuse in other projects or assistants.
 
 Use `$cinematic-prompt-director` for model-agnostic shot direction, prompt writing and failed-shot repair. Its [portable package](.agents/skills/cinematic-prompt-director/SKILL.md) separates cinematic intent from provider settings and reference syntax.
