@@ -15,3 +15,7 @@ private/
 *.jpeg
 *.webp
 .DS_Store
+
+# Skill reference documentation is source, not private media.
+!.agents/skills/**/references/
+!.agents/skills/**/references/**
