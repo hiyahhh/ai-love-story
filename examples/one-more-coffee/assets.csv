@@ -1,0 +1,6 @@
+asset_id,kind,description,version,private_source_path,provider_element,review_status,reviewed_by,notes
+partner_a_cafe_v1,character,Partner A portrait/front/back; wardrobe TBD,1,,,missing,,Create after brief review
+partner_b_cafe_v1,character,Partner B portrait/front/back; wardrobe TBD,1,,,missing,,Create after brief review
+cafe_v1,location,Window screen-left; fixed table layout,1,,,missing,,Create after brief review
+cup_blue_v1,prop,Single blue ceramic cup,1,,,missing,,Create after brief review
+wedding_table_v1,location,Wedding tabletop with two rings,1,,,missing,,Create after brief review

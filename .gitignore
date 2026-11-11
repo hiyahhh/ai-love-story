@@ -1,0 +1,21 @@
+# Private source material and generated media
+private/
+.env
+.env.*
+!.env.example
+**/media/
+**/renders/
+**/references/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
+*.webp
+.DS_Store
+
+# Skill reference documentation is source, not private media.
+!.agents/skills/**/references/
+!.agents/skills/**/references/**

@@ -1,0 +1,8 @@
+shot_id,start_seconds,duration_seconds,story_purpose,framing_action,asset_ids,start_state,end_state,continuity,audio,status
+S01,0,4,Establish the encounter,Wide static cafe; partners approach opposite sides of the table,partner_a_cafe_v1;partner_b_cafe_v1;cafe_v1;cup_blue_v1,Blue cup at table center,Both arrive at table,A screen-left; B screen-right; light screen-left,Cafe room tone,planned
+S02,4,4,Create a small shared surprise,Hand insert; both reach toward cup and pause before touching,partner_a_cafe_v1;partner_b_cafe_v1;cafe_v1;cup_blue_v1,Hands separate,Both withdraw hands,Cup remains stationary; no crossed wrists,Soft sleeve rustle,planned
+S03,8,5,Make connection visible,Static medium two-shot; shared glance and small smile,partner_a_cafe_v1;partner_b_cafe_v1;cafe_v1;cup_blue_v1,Both seated; hands resting,Shared glance,A left; B right; same clothing and light,Room tone,first-test
+S04,13,5,Choose to stay,Medium on B; B settles into chair and relaxes,partner_b_cafe_v1;cafe_v1,B seated upright,B relaxed facing A offscreen-left,Eyeline toward A; same light,Chair creak,planned
+S05,18,5,Show a shared ritual,Two-shot; they laugh quietly together,partner_a_cafe_v1;partner_b_cafe_v1;cafe_v1;cup_blue_v1,Both seated,Warm held moment,Same sides and cup position,Soft laughter if supported; room tone,planned
+S06,23,4,Bridge to the wedding,Static insert; same blue cup beside two wedding rings,cup_blue_v1;wedding_table_v1,Cup and rings already on table,Hold still life,Match cup silhouette/color across cut,Cafe ambience fades,planned
+S07,27,3,Land the dedication,Hold wedding tabletop; add confirmed title in edit,cup_blue_v1;wedding_table_v1,Still life,Fade out in edit,Text added by editor only,Ceramic clink; fade,planned
